@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.com.coopertaxifortaleza.sistema" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="br.com.coopertaxifortaleza.sistema" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Coopertaxi Fortaleza (Sistema)</name>
     <description>Uma Cooperativa de Condutores de Táxi em Fortaleza. Um Ponto de Táxi Fixo no Aeroporto Internacional Pinto Martins.</description>
     <author email="isaiaswebnet@gmail.com" href="http://skynetsites.com.br">Isaías Oliveira</author>
