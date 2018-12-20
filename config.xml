@@ -13,7 +13,7 @@
     <plugin name="cordova-plugin-statusbar" spec="~2.1.2" />
     <plugin name="cordova-plugin-vibration" spec="~2.1.0" />
     <plugin name="cordova-plugin-whitelist" spec="~1.2.1" />
-    <plugin name="de.appplant.cordova.plugin.printer" spec="0.6.1" source="pgb" />
+    <plugin name="de.appplant.cordova.plugin.printer" spec="0.6.2" source="pgb" />
     <platform name="android">
         <icon density="ldpi" src="www/res/icon/android/drawable-ldpi-icon.png" />
         <icon density="mdpi" src="www/res/icon/android/drawable-mdpi-icon.png" />
